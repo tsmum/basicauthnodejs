@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fhinkel/nodejs-hello-world.git"
+    "url": "git+https://github.com/tsmum/basicauthnodejs.git"
   },
-  "author": "fhinkel",
+  "author": "tsutomu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fhinkel/nodejs-hello-world/issues"
+    "url": "https://github.com/tsmum/basicauthnodejs/issues"
   },
-  "homepage": "https://github.com/fhinkel/nodejs-hello-world#readme"
+  "homepage": "https://github.com/tsmum/basicauthnodejs#readme"
 }
